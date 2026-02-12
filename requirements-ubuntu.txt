@@ -384,7 +384,7 @@ num2words==0.5.14
     # via lerobot
 numba==0.62.1
     # via robosuite
-numpy==2.2.6
+numpy==1.26.0
     # via
     #   accelerate
     #   bddl
@@ -475,7 +475,7 @@ opencv-python-headless==4.12.0.88
     # via lerobot
 orderly-set==5.5.0
     # via deepdiff
-packaging==25.0
+packaging==23.0
     # via
     #   accelerate
     #   datasets
@@ -673,7 +673,7 @@ requests==2.32.5
     #   teleop
     #   transformers
     #   wandb
-rerun-sdk==0.26.1
+rerun-sdk==0.23.1
     # via lerobot
 rhoban-cmeel-jsoncpp==1.9.4.9
     # via placo
