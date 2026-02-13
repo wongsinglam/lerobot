@@ -298,3 +298,11 @@ lerobot-train \
 1. 先做“仅 state -> action”的最小 MLP policy，跑通 100~500 steps。
 2. 再加图像输入和更复杂 processor。
 3. 最后再加 chunking、多模态 tokenizer、PEFT 等高级功能。
+
+## Examples and Community Contributions
+
+Check out these example policy implementations:
+
+- [DiTFlow Policy](https://github.com/danielsanjosepro/lerobot_policy_ditflow) - Diffusion Transformer policy with flow-matching objective. Try it out in this example: [DiTFlow Example](https://github.com/danielsanjosepro/test_lerobot_policy_ditflow)
+
+Share your policy implementations with the community! 🤗
